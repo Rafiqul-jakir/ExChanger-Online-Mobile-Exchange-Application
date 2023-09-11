@@ -80,7 +80,11 @@ Contributions to ExChanger are welcome and encouraged! If you want to contribute
 
 6. Submit a pull request, and describe the changes you have made and their purpose.
 
+## License
 
+This project is licensed under the [MIT License](LICENSE).
+
+---
 ## Contact
 
 If you have any questions or feedback regarding ExChanger, feel free to reach out:
